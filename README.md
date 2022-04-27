@@ -14,3 +14,4 @@ I used it as a refresher for some basic react concepts.
 - Animaiton with Framer-motion
 - Hooks
 - Context API
+- React Router
